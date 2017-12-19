@@ -1,4 +1,4 @@
-package guru.springframework.springrestclientexamples;
+package vt.restclientproject;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,3 +14,4 @@ public class SpringRestClientExamplesApplicationTests {
 	}
 
 }
+
